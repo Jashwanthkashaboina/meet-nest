@@ -1,6 +1,13 @@
-#  MeetNest
+<div align="center">
 
-A real-time video conferencing application built using **React**, **WebRTC**, and **Socket.IO**, enabling seamless peer-to-peer audio and video communication. MeetNest allows users to create or join meeting rooms instantly using a unique room ID while maintaining low-latency communication through direct browser-to-browser connections.
+# MeetNest
+
+### Connect. Collaborate. Communicate.
+
+*A real-time video conferencing platform built with React, WebRTC, and Socket.IO.*
+
+</div>
+
 
 
 ---
